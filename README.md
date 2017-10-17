@@ -6,7 +6,7 @@
 
 **A curated list of products that makes life in office healthier and more productive.**
 
-> This list is a by-product of my research for http://desk.fit which aims to build user friendly and more specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
+> This list is a growing by-product of my research for http://desk.fit which aims to build user friendly and specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
 
 ----
 
@@ -16,7 +16,8 @@
 
 - [Stand While Working](#stand-while-working)
 - [Peaceful Mind](#peaceful-mind)
-- [Nutrition](#nutrition)
+- [Nutrition](##nutrition)
+- [Education](#Education)
 
 
 ## Stand While Working 🕴
@@ -37,7 +38,7 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
-| **[The Ultimate Guide to Office Plants](https://www.ambius.com/blog/the-ultimate-guide-to-office-plants)** | A super affordable, portable standing desk | $29   |      |
+| **[The Ultimate Guide to Office Plants](https://www.ambius.com/blog/the-ultimate-guide-to-office-plants)** | Plants are awesome. There are a ton of useful tips in here: from picking the right plants to taking care of them. Even the area of vertical gardening is covered. | free   |      |
 
 </br>
 
@@ -48,3 +49,15 @@ Nutrition is a major factor when it comes to a healthy desk environment. It's to
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[Ulla](https://www.ulla.io)** | A Smart Hydration Reminder | $25   |      |
+
+</br>
+
+## Education 📚
+
+Resources (Articles, Books, Videos) to help you understand the benefits of a healthy desk environment and how achieve this yourself.
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+| **[Deskbound](https://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586/ref=sr_1_1?ie=UTF8&qid=1508255587&sr=8-1&keywords=Deskbound)** | New York Times and Wall Street Journal bestseller. "Unveils a detailed battle plan for surviving our chair-centric society" | $12-$25   |      |
+|**[7 Benefits of a Standing Desk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#section1)**|An article about 7 benefits of using a standing desk. Supported by science.| free ||
+|**[Designed to Move: The Science-Backed Program to Fight Sitting Disease and Enjoy Lifelong Health](https://www.amazon.com/Designed-Move-Science-Backed-Program-Lifelong-ebook/dp/B01MQFSFAO/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=PVGRNECBHKQXNN8WQEAT)**| The author presents a simple and effective plan for maintaining good health throughout life by developing new lifestyle habits of frequent gravity-challenging movement. Written for everyone who spends most of their lives sitting in chairs, at desks and in cars.|$9.45-$10.53||

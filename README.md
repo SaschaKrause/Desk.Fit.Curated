@@ -2,13 +2,13 @@
 
 # Desk.Fit.Curated
 
-<img src="logo.png" width="200" align="left">
-
 **A curated list of products that makes life in office healthier and more productive.**
 
 > This list is a growing by-product of my research for http://desk.fit which aims to build user friendly and specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
 
-----
+<p style="text-align:center">
+  <img src="logo.png" width="200">
+</p>
 
 </br>
 
@@ -23,6 +23,7 @@
 - [Productivity](#productivity-)
 - [Education](#education-)
 
+</br>
 </br>
 
 ## Stand While Working 🕴
@@ -39,6 +40,7 @@ Sitting too much is seriously bad for your health. These products can help with 
 |**[Worekz Standing Desk](https://www.uncagedergonomics.com/workez-standing-desk/)**| A simple standing desk conversion kit that combines 2 Stands into a portable, compact sit/stand desk. | $99||
 
 </br>
+</br>
 
 ## Sitting While Working 🐒
 
@@ -47,7 +49,9 @@ You know that sitting too much is bad. But there are products to make your time 
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 |**[Wobble Stool](https://www.uncagedergonomics.com/wobble-stool/)**| Adjustable-height bar stool that makes sitting fun & active! Burn calories, rock & move around. Great for home & office! | $150 ||
+|**[JUN-Q Canvas Foot Rest Desk Hammock](https://www.amazon.com/JUN-Q-Canvas-Hammock-Office-Adjustable/dp/B01N3V5MRE/ref=sr_1_5?ie=UTF8&qid=1508264452&sr=8-5)**| Unique portable office desk hammock for your feet | $14||
 
+</br>
 </br>
 
 ## Ergonomic Peripheral Devices 🖱
@@ -59,6 +63,7 @@ Wether standing or sitting on a desk, you still need to get information into you
 |**[Microsoft Natural Ergonomic Keyboard 4000](https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012)**| Most likely the most famous ergonomic keyboard available. Really good. Takes some time to get used to it, though. | $49 ||
 
 </br>
+</br>
 
 ## Peaceful Mind 😌
 
@@ -68,6 +73,7 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 |----------|--------------------------------------------|------:|------|
 | **[The Ultimate Guide to Office Plants](https://www.ambius.com/blog/the-ultimate-guide-to-office-plants)** | Plants are awesome. There are a ton of useful tips in here: from picking the right plants to taking care of them. Even the area of vertical gardening is covered. | free   |      |
 
+</br>
 </br>
 
 ## Breaks and awareness ⏯
@@ -79,6 +85,7 @@ The better your breaks are, the better your energy gets filled.
 | **[Eye Care](https://chrome.google.com/webstore/detail/eye-care/ingonfahmmfgbamnahjpkccllhpmidcp?hl=en)** | A Chrome Browser Extension that helps you when working long hours in front of the screen. Regular breaks combined with eye exercises and moderate movement are crucial to prevent eyestrain, backpain and other health issues. | free   |      |
 
 </br>
+</br>
 
 ## Nutrition 🍲
 
@@ -89,6 +96,7 @@ Nutrition is a major factor when it comes to a healthy desk environment. It's to
 | **[Ulla](https://www.ulla.io)** | A Smart Hydration Reminder | $25   |      |
 
 </br>
+</br>
 
 ## Productivity ⏱
 
@@ -98,6 +106,7 @@ Productivity is what we look for when we need to get things done. There are a lo
 |----------|--------------------------------------------|------:|------|
 | **[Be Focused - Focus Timer & Goal Tracker for work](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)** | OSX App. Lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. | free   |      |
 
+</br>
 </br>
 
 ## Education 📚

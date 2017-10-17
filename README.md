@@ -19,11 +19,11 @@
 - [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
 - [Peaceful Mind](#peaceful-mind-)
 - [Breaks and awareness](#breaks-and-awareness-)
+- [Exercising](#exercising-)
 - [Nutrition](#nutrition-)
 - [Productivity](#productivity-)
 - [Education](#education-)
 
-</br>
 </br>
 
 ## Stand While Working 🕴
@@ -41,6 +41,7 @@ Sitting too much is seriously bad for your health. These products can help with 
 
 </br>
 </br>
+</br>
 
 ## Sitting While Working 🐒
 
@@ -51,6 +52,7 @@ You know that sitting too much is bad. But there are products to make your time 
 |**[Wobble Stool](https://www.uncagedergonomics.com/wobble-stool/)**| Adjustable-height bar stool that makes sitting fun & active! Burn calories, rock & move around. Great for home & office! | $150 ||
 |**[JUN-Q Canvas Foot Rest Desk Hammock](https://www.amazon.com/JUN-Q-Canvas-Hammock-Office-Adjustable/dp/B01N3V5MRE/ref=sr_1_5?ie=UTF8&qid=1508264452&sr=8-5)**| Unique portable office desk hammock for your feet | $14||
 
+</br>
 </br>
 </br>
 
@@ -64,6 +66,7 @@ Wether standing or sitting on a desk, you still need to get information into you
 
 </br>
 </br>
+</br>
 
 ## Peaceful Mind 😌
 
@@ -73,6 +76,7 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 |----------|--------------------------------------------|------:|------|
 | **[The Ultimate Guide to Office Plants](https://www.ambius.com/blog/the-ultimate-guide-to-office-plants)** | Plants are awesome. There are a ton of useful tips in here: from picking the right plants to taking care of them. Even the area of vertical gardening is covered. | free   |      |
 
+</br>
 </br>
 </br>
 
@@ -86,6 +90,19 @@ The better your breaks are, the better your energy gets filled.
 
 </br>
 </br>
+</br>
+
+## Exercising 💪
+
+A list for of things to keep you fit **while** you are in the office.
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+| **[Powerball for Work](https://powerballs.com/category/work-related-rsi/)** | Powerball relieves all manner of repetitive strain injuries that are becoming more and more commonplace from people’s work practices. The unique isometric exercise that Powerball creates is highly effective in both the curing and prevention of workplace RSIs. | $40+ |      |
+
+</br>
+</br>
+</br>
 
 ## Nutrition 🍲
 
@@ -97,6 +114,7 @@ Nutrition is a major factor when it comes to a healthy desk environment. It's to
 
 </br>
 </br>
+</br>
 
 ## Productivity ⏱
 
@@ -106,6 +124,7 @@ Productivity is what we look for when we need to get things done. There are a lo
 |----------|--------------------------------------------|------:|------|
 | **[Be Focused - Focus Timer & Goal Tracker for work](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)** | OSX App. Lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. | free   |      |
 
+</br>
 </br>
 </br>
 

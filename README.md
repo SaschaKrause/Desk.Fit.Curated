@@ -1,14 +1,15 @@
+
+
 # Desk.Fit.Curated
 
+<img src="logo.png" width="200" align="right">
 
 **A curated list of products that makes life in office healthier and more productive.**
 
 > This list is a by-product of my research for http://desk.fit which aims to build user friendly and more specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
 
 
-<p align="center">
-  <img src="logo.png" width="200">
-</p>
+
 
 
 ### Categories
@@ -18,7 +19,7 @@
 - [Nutrition](#nutrition)
 
 
-### Stand While Working
+### Stand While Working 🕴
 
 Sitting too much is seriously bad for your health. These products may help with the transformation from sitting to standing while working.
 
@@ -30,7 +31,7 @@ Sitting too much is seriously bad for your health. These products may help with 
 
 ----
 
-### Peaceful Mind
+### Peaceful Mind 😌
 
 It's hard to keep your mind uncluttered. But it's so important that you try.
 
@@ -40,7 +41,7 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 
 ----
 
-### Nutrition
+### Nutrition 🍲
 
 Nutrition is a major factor when it comes to a healthy desk environment. It's too easy too neglect this on busy days.
 

@@ -16,8 +16,10 @@
 
 - [Stand While Working](#stand-while-working-)
 - [Sitting While Working](#sitting-while-working-)
+- [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
 - [Peaceful Mind](#peaceful-mind-)
 - [Nutrition](#nutrition-)
+- [Productivity](#productivity-)
 - [Education](#education-)
 
 
@@ -38,9 +40,23 @@ Sitting too much is seriously bad for your health. These products may help with 
 
 ## Sitting While Working 🐒
 
+You know that sitting too much is bad. But there are products to make your time on a chair much healthier.
+
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 |**[Wobble Stool](https://www.uncagedergonomics.com/wobble-stool/)**| Adjustable-height bar stool that makes sitting fun & active! Burn calories, rock & move around. Great for home & office! | $150 ||
+
+</br>
+
+## Ergonomic Peripheral Devices 🖱⌨️
+
+Wether standing or sitting on a desk, you still need to get information into your computer. This is a list of peripherals with the main focus on comfort and ergonomic.
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+|**[Microsoft Natural Ergonomic Keyboard 4000](https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012)**| Most likely the most famous ergonomic keyboard available. Really good. Takes some time to get used to it, though. | $49 ||
+
+</br>
 
 ## Peaceful Mind 😌
 
@@ -59,6 +75,16 @@ Nutrition is a major factor when it comes to a healthy desk environment. It's to
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[Ulla](https://www.ulla.io)** | A Smart Hydration Reminder | $25   |      |
+
+</br>
+
+## Productivity ⏱
+
+Productivity is what we look for when we need to get things done. There are a lot of tools out there. The focus of this section is in products that can help all users (compared to very specialised groups).
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+| **[Be Focused - Focus Timer & Goal Tracker for work](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)** | OSX App. Lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. | free   |      |
 
 </br>
 

@@ -1,15 +1,14 @@
 # Desk.Fit.Curated
 
 
-<p align="center">
-  <img src="logo.png">
-</p
-
-
-
 **A curated list of products that makes life in office healthier and more productive.**
 
 ```This list is a by-product of my research for http://desk.fit which aims to build better and more specialised products for healthy desk environments. You are very welcome to contribute to this list and help others discover those items that help you.```
+
+
+<p align="center">
+  <img src="logo.png" width="200">
+</p>
 
 
 ### Categories

@@ -18,14 +18,16 @@
 - [Sitting While Working](#sitting-while-working-)
 - [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
 - [Peaceful Mind](#peaceful-mind-)
+- [Breaks and awareness](#breaks-and-awareness-)
 - [Nutrition](#nutrition-)
 - [Productivity](#productivity-)
 - [Education](#education-)
 
+</br>
 
 ## Stand While Working 🕴
 
-Sitting too much is seriously bad for your health. These products may help with the transformation from sitting to standing while working. Keep in mind that the most important part is to switch positions regularly. It's not good to stand 8 hours in front of a desk either.
+Sitting too much is seriously bad for your health. These products can help with the transformation from sitting to standing while working. Keep in mind that the most important part is to switch positions regularly. It's not good to stand 8 hours in front of a desk either.
 
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
@@ -48,7 +50,7 @@ You know that sitting too much is bad. But there are products to make your time 
 
 </br>
 
-## Ergonomic Peripheral Devices 🖱⌨️
+## Ergonomic Peripheral Devices 🖱
 
 Wether standing or sitting on a desk, you still need to get information into your computer. This is a list of peripherals with the main focus on comfort and ergonomic.
 
@@ -65,6 +67,16 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[The Ultimate Guide to Office Plants](https://www.ambius.com/blog/the-ultimate-guide-to-office-plants)** | Plants are awesome. There are a ton of useful tips in here: from picking the right plants to taking care of them. Even the area of vertical gardening is covered. | free   |      |
+
+</br>
+
+## Breaks and awareness ⏯
+
+The better your breaks are, the better your energy gets filled.
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+| **[Eye Care](https://chrome.google.com/webstore/detail/eye-care/ingonfahmmfgbamnahjpkccllhpmidcp?hl=en)** | A Chrome Browser Extension that helps you when working long hours in front of the screen. Regular breaks combined with eye exercises and moderate movement are crucial to prevent eyestrain, backpain and other health issues. | free   |      |
 
 </br>
 
@@ -96,4 +108,4 @@ Resources (Articles, Books, Videos) to help you understand the benefits of a hea
 |----------|--------------------------------------------|------:|------|
 | **[Deskbound](https://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586/ref=sr_1_1?ie=UTF8&qid=1508255587&sr=8-1&keywords=Deskbound)** | New York Times and Wall Street Journal bestseller. "Unveils a detailed battle plan for surviving our chair-centric society" | $12-$25   |      |
 |**[7 Benefits of a Standing Desk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#section1)**|An article about 7 benefits of using a standing desk. Supported by science.| free ||
-|**[Designed to Move: The Science-Backed Program to Fight Sitting Disease and Enjoy Lifelong Health](https://www.amazon.com/Designed-Move-Science-Backed-Program-Lifelong-ebook/dp/B01MQFSFAO/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=PVGRNECBHKQXNN8WQEAT)**| The author presents a simple and effective plan for maintaining good health throughout life by developing new lifestyle habits of frequent gravity-challenging movement. Written for everyone who spends most of their lives sitting in chairs, at desks and in cars.|$9.45-$10.53||
+|**[Designed to Move: The Science-Backed Program to Fight Sitting Disease and Enjoy Lifelong Health](https://www.amazon.com/Designed-Move-Science-Backed-Program-Lifelong-ebook/dp/B01MQFSFAO/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=PVGRNECBHKQXNN8WQEAT)**| The author presents a simple and effective plan for maintaining good health throughout life by developing new lifestyle habits of frequent gravity-challenging movement. Written for everyone who spends most of their lives sitting in chairs, at desks and in cars.|~$10||

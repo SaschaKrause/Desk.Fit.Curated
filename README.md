@@ -101,6 +101,7 @@ A list for of things to keep you fit **while** you are in the office.
 
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
+| **[Exercise to improve hunchback posture](https://www.youtube.com/watch?v=LT_dFRnmdGs)** | Video with 3 exercises to improve hunchback posture forward head carriage correction. Crazy simple but extremely effective. | free |      |
 | **[Powerball for Work](https://powerballs.com/category/work-related-rsi/)** | Powerball relieves all manner of repetitive strain injuries that are becoming more and more commonplace from people’s work practices. The unique isometric exercise that Powerball creates is highly effective in both the curing and prevention of workplace RSIs. | $40+ |      |
 | **[The 10 Best Exercises To Do At Your Desk](https://www.forbes.com/sites/jacquelynsmith/2013/02/06/the-10-best-exercises-to-do-at-your-desk/#7bcd8d063372)** | A short video from Forbes that highlights 10 quick and easy to do exercises everyone can do during the workday. | free |      |
 | **[A workout at work?](https://www.washingtonpost.com/graphics/health/workout-at-work/)** | The Washington Post's infographics department tested 12 exercises for a week to see which ones real people could incorporate into a workday. These moves were recommended by experts whose jobs involve studying motion, preventing obesity and generally getting people off their duffs. | free |      |
@@ -128,6 +129,7 @@ Productivity is what we look for when we need to get things done. There are a lo
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[Be Focused - Focus Timer & Goal Tracker for work](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)** | OSX App. Lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. | free   |      |
+|**[The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)**| Notebook that helps you prioritize and accomplish the vital few tasks that make your day satisfying. . Combined with the Pomodoro Technique to help you avoid distractions, the Productivity Planner assists you to get better work done in less time. | $25||
 
 </br>
 </br>
@@ -139,7 +141,9 @@ Productivity is what we look for when we need to get things done. There are a lo
 
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
-| **[Noisli](https://www.noisli.com/)** | Improve focus and boost productivity. Mix different sounds and create your perfect environment. | free in browser,</br>2$ as App  |      |
+| **[MusicForProgrammnig](http://www.musicforprogramming.net/)** | A series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities). Awesome website.| free |      |
+| **[Noisli](https://www.noisli.com/)** | Mix different sounds and create your perfect environment. | free in browser,</br>2$ as App  |      |
+| **[Chi Activation Music](https://www.youtube.com/watch?v=AaXcMirqcrU)** | This audio is prepared to increase your chi. Sounds cheesy, but works. | free |      |
 
 </br>
 </br>
@@ -153,4 +157,5 @@ Resources (Articles, Books, Videos) to help you understand the benefits of a hea
 |----------|--------------------------------------------|------:|------|
 | **[Deskbound](https://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586/ref=sr_1_1?ie=UTF8&qid=1508255587&sr=8-1&keywords=Deskbound)** | New York Times and Wall Street Journal bestseller. "Unveils a detailed battle plan for surviving our chair-centric society" | $12-$25   |      |
 |**[7 Benefits of a Standing Desk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#section1)**|An article about 7 benefits of using a standing desk. Supported by science.| free ||
+|**[Research reveals how long to sit and stand at your desk for best health](http://www.newswire.ca/news-releases/new-research-reveals-how-long-to-sit-and-stand-at-your-desk-for-best-health-516524941.html)**| Spoiler: "Dr. Callaghan’s team found, you should stand for three and sit for one. So, if you sit for five minutes, try standing for 15 minutes."| free ||
 |**[Designed to Move: The Science-Backed Program to Fight Sitting Disease and Enjoy Lifelong Health](https://www.amazon.com/Designed-Move-Science-Backed-Program-Lifelong-ebook/dp/B01MQFSFAO/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=PVGRNECBHKQXNN8WQEAT)**| The author presents a simple and effective plan for maintaining good health throughout life by developing new lifestyle habits of frequent gravity-challenging movement. Written for everyone who spends most of their lives sitting in chairs, at desks and in cars.|~$10||

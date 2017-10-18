@@ -6,7 +6,7 @@
 
 > This list is a growing by-product of my research for http://desk.fit which aims to build user friendly and specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
 
-<p style="text-align:center">
+<p align="center">
   <img src="logo.png" width="200">
 </p>
 
@@ -14,15 +14,15 @@
 
 ## Categories
 
-- [Stand While Working](#stand-while-working-)
-- [Sitting While Working](#sitting-while-working-)
-- [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
-- [Peaceful Mind](#peaceful-mind-)
-- [Breaks and awareness](#breaks-and-awareness-)
-- [Exercising](#exercising-)
-- [Nutrition](#nutrition-)
-- [Productivity](#productivity-)
-- [Education](#education-)
+- 🕴 [Stand While Working](#stand-while-working-)
+- 🐒 [Sitting While Working](#sitting-while-working-)
+- 🖱 [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
+- 😌 [Peaceful Mind](#peaceful-mind-)
+- ⏯ [Breaks and awareness](#breaks-and-awareness-)
+- 💪 [Exercising](#exercising-)
+- 🍲 [Nutrition](#nutrition-)
+- ⏱ [Productivity](#productivity-)
+- 📚 [Education](#education-)
 
 </br>
 
@@ -99,6 +99,8 @@ A list for of things to keep you fit **while** you are in the office.
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[Powerball for Work](https://powerballs.com/category/work-related-rsi/)** | Powerball relieves all manner of repetitive strain injuries that are becoming more and more commonplace from people’s work practices. The unique isometric exercise that Powerball creates is highly effective in both the curing and prevention of workplace RSIs. | $40+ |      |
+| **[The 10 Best Exercises To Do At Your Desk](https://www.forbes.com/sites/jacquelynsmith/2013/02/06/the-10-best-exercises-to-do-at-your-desk/#7bcd8d063372)** | A short video from Forbes that highlights 10 quick and easy to do exercises everyone can do during the workday. | free |      |
+| **[A workout at work?](https://www.washingtonpost.com/graphics/health/workout-at-work/)** | The Washington Post's infographics department tested 12 exercises for a week to see which ones real people could incorporate into a workday. These moves were recommended by experts whose jobs involve studying motion, preventing obesity and generally getting people off their duffs. | free |      |
 
 </br>
 </br>

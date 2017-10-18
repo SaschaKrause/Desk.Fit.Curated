@@ -6,22 +6,25 @@
 
 > This list is a growing by-product of my research for http://desk.fit which aims to build user friendly and specialised products to support healthy desk environments. You are very welcome to contribute to this list and help others discover those items that you feel valuable.
 
+</br>
+
 <p align="center">
   <img src="logo.png" width="200">
 </p>
 
-</br>
+
 
 ## Categories
 
 - 🕴 [Stand While Working](#stand-while-working-)
 - 🐒 [Sitting While Working](#sitting-while-working-)
-- 🖱 [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
+- 🎹 [Ergonomic Peripheral Devices](#ergonomic-peripheral-devices-)
 - 😌 [Peaceful Mind](#peaceful-mind-)
-- ⏯ [Breaks and awareness](#breaks-and-awareness-)
+- ⏯ [Breaks and Awareness](#breaks-and-awareness-)
 - 💪 [Exercising](#exercising-)
 - 🍲 [Nutrition](#nutrition-)
 - ⏱ [Productivity](#productivity-)
+- 🎶 [Sounds & Music](#sounds-&-music-)
 - 📚 [Education](#education-)
 
 </br>
@@ -56,7 +59,7 @@ You know that sitting too much is bad. But there are products to make your time 
 </br>
 </br>
 
-## Ergonomic Peripheral Devices 🖱
+## Ergonomic Peripheral Devices 🎹
 
 Wether standing or sitting on a desk, you still need to get information into your computer. This is a list of peripherals with the main focus on comfort and ergonomic.
 
@@ -80,7 +83,7 @@ It's hard to keep your mind uncluttered. But it's so important that you try.
 </br>
 </br>
 
-## Breaks and awareness ⏯
+## Breaks and Awareness ⏯
 
 The better your breaks are, the better your energy gets filled.
 
@@ -125,6 +128,18 @@ Productivity is what we look for when we need to get things done. There are a lo
 | NAME     | DESCRIPTION                                | PRICE | MISC |
 |----------|--------------------------------------------|------:|------|
 | **[Be Focused - Focus Timer & Goal Tracker for work](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)** | OSX App. Lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. | free   |      |
+
+</br>
+</br>
+</br>
+
+## Sounds & Music 🎶
+
+Productivity is what we look for when we need to get things done. There are a lot of tools out there. The focus of this section is in products that can help all users (compared to very specialised groups).
+
+| NAME     | DESCRIPTION                                | PRICE | MISC |
+|----------|--------------------------------------------|------:|------|
+| **[Noisli](https://www.noisli.com/)** | Improve focus and boost productivity. Mix different sounds and create your perfect environment. | free in browser,</br>2$ as App  |      |
 
 </br>
 </br>

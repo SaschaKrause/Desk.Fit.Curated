@@ -42,8 +42,8 @@
 <p>
 <p align="center">
   <a href="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/1/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/1/ad" width="270"></a>
-  <a href="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/2/ad"></a>
-  <a href="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/3/ad"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/2/ad" width="270"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-deskfit/3/ad" width="270"></a>
 <p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

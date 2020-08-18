@@ -29,6 +29,27 @@
 
 </br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</div>
+<h1 align="center">Dev’s Doing Charity: ReadMe-Jobs</h1>
+<p align="center">
+  We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
+  <br />
+  You can learn more about his here. 
+<p>
+<p align="center">
+  <a href="https://readme-jobs-backend.herokuapp.com/1/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/1/ad"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/2/ad"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/3/ad"></a>
+<p>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</div>
+<br />
+
 ## Stand While Working 🕴
 
 Sitting too much is seriously bad for your health. These products can help with the transformation from sitting to standing while working. Keep in mind that the most important part is to switch positions regularly. It's not good to stand 8 hours in front of a desk either.

@@ -32,8 +32,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
-<h1 align="center">Dev’s Doing Charity: ReadMe-Jobs</h1>
+<h1 align="center">ReadMe-Jobs</h1>
 <p align="center">
+  <img src="https://s3.eu-central-1.amazonaws.com/readme-jobs.com/meta/devs-doing-charity.png">
+  <br />
   We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
   <br />
   You can learn more about his here. 

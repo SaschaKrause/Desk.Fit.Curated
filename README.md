@@ -27,8 +27,8 @@
 - 🎶 [Sounds and Music](#sounds-and-music-)
 - 📚 [Education](#education-)
 
-</br>
 
+<!-- START OF README-JOB SECTION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
@@ -45,12 +45,11 @@
   <a href="https://readme-jobs-backend.herokuapp.com/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/2/ad"></a>
   <a href="https://readme-jobs-backend.herokuapp.com/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/3/ad"></a>
 <p>
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
 <br />
+<!-- END OF README-JOB SECTION -->
 
 ## Stand While Working 🕴
 

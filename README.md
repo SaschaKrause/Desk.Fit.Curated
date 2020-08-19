@@ -34,7 +34,7 @@
 </div>
 <h1 align="center">README-Jobs</h1>
 <p align="center">
-  <img src="https://s3.eu-central-1.amazonaws.com/readme-jobs.com/meta/devs-doing-charity.png?q=1" width="270">
+  <img src="http://static.readme-jobs.com/meta/badge.png?q=1" width="327">
   <br />
   We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
   <br />

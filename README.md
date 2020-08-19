@@ -38,7 +38,8 @@
   <br />
   We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
   <br />
-  You can learn more about his here. 
+  The promoted jobs refresh every hour.
+  You can learn more about his <a href="https://readme-jobs.com">here</a>. 
 <p>
 <p align="center">
   <a href="https://fetch.readme-jobs.com/rmj-deskfit/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-deskfit/1/ad" width="270"></a>

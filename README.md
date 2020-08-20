@@ -41,9 +41,9 @@
   The promoted jobs refresh every hour.
 <p>
 <p align="center">
-  <a href="https://fetch.readme-jobs.com/rmj-deskfit/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-deskfit/1/ad" width="270"></a>
-  <a href="https://fetch.readme-jobs.com/rmj-deskfit/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-deskfit/2/ad" width="270"></a>
-  <a href="https://fetch.readme-jobs.com/rmj-deskfit/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-deskfit/3/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/ad" width="270"></a>
 <p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

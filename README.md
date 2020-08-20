@@ -38,7 +38,7 @@
   <br />
   This section promotes developer jobs and contributes in sponsoring this open source project.
   <br />
-  Learn more about it <b><a href="https://readme-jobs.com">here</a></b>.
+  Learn more about it <b><a href="http://readme-jobs.com">here</a></b>.
 <p>
 <p align="center">
   <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/ad" width="270"></a>

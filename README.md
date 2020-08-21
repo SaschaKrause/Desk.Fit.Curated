@@ -34,7 +34,7 @@
 </div>
 <h1 align="center">README-Jobs</h1>
 <p align="center">
-  <img src="http://static.readme-jobs.com/meta/badge.png?q=1" width="327">
+  <a href="http://readme-jobs.com"><img src="http://static.readme-jobs.com/meta/badge.png?q=1" width="327"></a>
   <br />
   This section promotes developer jobs and contributes in sponsoring this open source project.
   <br />
